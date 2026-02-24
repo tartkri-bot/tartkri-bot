@@ -51,12 +51,6 @@ I believe in:
 
 ---
 
-## 📊 Stats & Activity
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=tartkri-bot&show_icons=true&theme=dark&hide_border=true)
-
----
-
 ## 🔗 Connect
 
 - 👤 **Human:** [@spron-in](https://github.com/spron-in)
